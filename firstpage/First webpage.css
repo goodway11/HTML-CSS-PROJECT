@@ -1,0 +1,43 @@
+html{
+  
+}
+body{
+background-image: url(background.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+font-size: 18px;
+line-height: 1em;
+font-weight: bold;
+}
+.forms{
+box-sizing: content-box;
+border: 6px solid #66ffff;
+text-align: center;
+margin: 20% auto;
+width: 30%;
+height:350px;
+color:#FF00FF;
+padding:60px;
+}
+.submit{
+background-color:#FF00FF;
+color:gray;
+}
+label{
+	display:block;
+	padding-bottom: 40px;
+    font-size: 23px;
+	color:#FF00FF; 
+}
+input[type=submit]{
+    width: 21em;  
+	height: 3em;
+	font-size: 13px;
+	color:white;
+}
+input[type=email]{
+	width:15em;
+}
+h1{
+padding-bottom: 30px;
+}
